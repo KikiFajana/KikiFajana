@@ -1,6 +1,6 @@
 <h1>Hi, I'm Okiki!
   
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Projects :</h2>
 
 
 <h2> 🤳 Connect with me:</h2>
